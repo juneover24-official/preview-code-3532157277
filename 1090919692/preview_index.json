@@ -1,0 +1,31 @@
+{
+  "qq_number": "3532157277",
+  "group_number": "1090919692",
+  "updated_at": "2026-04-23T15:52:38.865648",
+  "skins": [
+    {
+      "name": "三小只の蝶恋花",
+      "file": "三小只の蝶恋花.bdi",
+      "thumb": "三小只の蝶恋花.bdi_py_26_light_thumb.png",
+      "full": "三小只の蝶恋花.bdi_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "三小只の梦.bdi",
+      "thumb": "三小只の梦.bdi_py_26_light_thumb.png",
+      "full": "三小只の梦.bdi_py_26_light.png"
+    },
+    {
+      "name": "三小只の梦",
+      "file": "三小只の梦.bds",
+      "thumb": "三小只の梦.bds_py_26_light_thumb.png",
+      "full": "三小只の梦.bds_py_26_light.png"
+    },
+    {
+      "name": "三小只の蝶恋花",
+      "file": "三小只の蝶恋花.bds",
+      "thumb": "三小只の蝶恋花.bds_py_26_light_thumb.png",
+      "full": "三小只の蝶恋花.bds_py_26_light.png"
+    }
+  ]
+}
