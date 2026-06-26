@@ -1,13 +1,19 @@
 {
   "qq_number": "3532157277",
   "group_number": "742871534",
+  "updated_at": "2026-06-26T16:38:03+00:00",
   "skins": [
     {
       "name": "三小只の玉京秋",
       "file": "三小只の玉京秋.bds",
       "thumb": "三小只の玉京秋.bds_py_26_light_thumb.png",
       "full": "三小只の玉京秋.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "三小只の长相思",
+      "file": "三小只の长相思.bds",
+      "thumb": "三小只の长相思.bds_py_26_light_thumb.png",
+      "full": "三小只の长相思.bds_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-06-26T16:35:45+00:00"
+  ]
 }
