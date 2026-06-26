@@ -1,7 +1,7 @@
 {
   "qq_number": "3532157277",
   "group_number": "742871534",
-  "updated_at": "2026-06-26T16:42:32+00:00",
+  "updated_at": "2026-06-26T16:44:43+00:00",
   "skins": [
     {
       "name": "三小只の玉京秋",
@@ -26,6 +26,12 @@
       "file": "三小只の苏幕遮.bds",
       "thumb": "三小只の苏幕遮.bds_py_26_light_thumb.png",
       "full": "三小只の苏幕遮.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "三小只の洞仙歌.bds",
+      "thumb": "三小只の洞仙歌.bds_py_26_light_thumb.png",
+      "full": "三小只の洞仙歌.bds_py_26_light_thumb.png"
     }
   ]
 }
