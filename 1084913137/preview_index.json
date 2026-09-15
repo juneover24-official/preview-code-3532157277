@@ -1,7 +1,7 @@
 {
   "qq_number": "3532157277",
   "group_number": "1084913137",
-  "updated_at": "2026-04-23T15:52:38.365753",
+  "updated_at": "2026-09-15T18:05:22+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -110,6 +110,13 @@
       "file": "三小只の睡莲.bds",
       "thumb": "三小只の睡莲.bds_py_26_light_thumb.png",
       "full": "三小只の睡莲.bds_py_26_light.png"
+    },
+    {
+      "name": "三小只の莓味甜心",
+      "file": "三小只の莓味甜心.bds",
+      "thumb": "三小只の莓味甜心.bds_py_26_light_thumb.png",
+      "full": "三小只の莓味甜心.bds_py_26_light_thumb.png",
+      "file_id": "8ef3ba65b1bd88adc1027d0afe2210cb"
     }
   ]
 }
